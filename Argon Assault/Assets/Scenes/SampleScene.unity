@@ -664,21 +664,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2732293593816271469, guid: 6cb8e4e484959994db95ccbd955f6703, type: 3}
-      propertyPath: yRange
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 2732293593816271469, guid: 6cb8e4e484959994db95ccbd955f6703, type: 3}
-      propertyPath: controlRollFactor
-      value: -20
-      objectReference: {fileID: 0}
-    - target: {fileID: 2732293593816271469, guid: 6cb8e4e484959994db95ccbd955f6703, type: 3}
-      propertyPath: positionRollFactor
-      value: -2.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2732293593816271469, guid: 6cb8e4e484959994db95ccbd955f6703, type: 3}
-      propertyPath: positionPitchFactor
-      value: -2
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6cb8e4e484959994db95ccbd955f6703, type: 3}
